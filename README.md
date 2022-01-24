@@ -9,7 +9,11 @@
 
 ## Skills
 * NodeJS
+* Python
+* C++
+* Rust
+
+### Frameworks
 * React
 * Electron
 * Express
-* Python
