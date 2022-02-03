@@ -10,7 +10,7 @@
 
 ## Skills
 ### Languages
-* NodeJS (JavaScript/TypeScript)
+* JavaScript
 * Python
 * Java
 * C++
@@ -18,11 +18,13 @@
 * Solidity
 
 ### Frameworks
+* NodeJS
+* TypeScript
 * React
 * Electron
 * Express
 
 ### Detailed Skills
-* Creating (Crypto) Smart Contracts
-* Creating React Web Apps
+* Creating (Crypto) Smart Contracts (Solidity and Rust)
+* Creating React Web Apps (Using React-Scripts, Craco or Vite)
 * Creating advanced Discord bots
