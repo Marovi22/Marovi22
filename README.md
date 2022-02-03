@@ -1,7 +1,7 @@
 ### Software developer, Gamer
 ## Working on
-* Working on [Cluster](https://www.cluster.money/).
-* Innovating the Crypto and NFT world!
+* [Cluster](https://www.cluster.money/).
+* Innovating the Crypto, DeFi and NFT world!
 * Creating ways to improve client experiences accross multiple platforms (Web environment, Discord)
 
 ## Learning
