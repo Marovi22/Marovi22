@@ -7,6 +7,8 @@
 ## Learning
 * NextJS
 * Creating advanced Crypto contracts that allow multichain connections in a cross language environment.
+* .NET (C# web development, backend)
+* C# VR implementations
 
 ## Skills
 ### Languages
