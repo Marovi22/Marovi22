@@ -9,6 +9,7 @@
 * Creating advanced Crypto contracts that allow multichain connections in a cross language environment.
 * .NET (C# web development, backend)
 * C# VR implementations
+* C# Unity Game Development
 
 ## Skills
 ### Languages
@@ -20,11 +21,10 @@
 * Solidity
 
 ### Frameworks
-* NodeJS
-* TypeScript
-* React
-* Electron
-* Express
+* NodeJS (TypeScript, React, Electron, Express)
+* Maven
+* SpringBoot
+* TKinter
 
 ### Detailed Skills
 * Creating (Crypto) Smart Contracts (Solidity and Rust)
