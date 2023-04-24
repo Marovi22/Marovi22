@@ -1,6 +1,8 @@
 ### Software developer, Gamer
 ## Working on
-* [Cluster](https://www.cluster.money/).
+* Next.JS Stellae Interfacing and Extension website [StellaePro](https://www.stellae.pro/).
+* Stellae, a Node Discord.JS application to improve user experiences during interactions.
+* Clustering projects together with [Cluster](https://www.cluster.money). (long term development project)
 * Innovating the Crypto, DeFi and NFT world!
 * Creating ways to improve client experiences accross multiple platforms (Web environment, Discord)
 
