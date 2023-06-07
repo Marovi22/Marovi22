@@ -1,6 +1,9 @@
 ### Software developer, Gamer
+## My projects
+* SpittingCodes, my portfolio and private tool website [SpittingCodes](https://spittingcodes.com/).
+* Stellae, A NodeJS TypeScript Discord Bot, available for free [Add Stellae to Discord](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=364870364383&client_id=508030284726403102).
 ## Working on
-* Next.JS Stellae Interfacing and Extension website [StellaePro](https://www.stellae.pro/).
+* StellaePro, Next.JS Stellae Interfacing and Extension website [StellaePro](https://www.stellae.pro/).
 * Stellae, a Node Discord.JS application to improve user experiences during interactions.
 * Clustering projects together with [Cluster](https://www.cluster.money). (long term development project)
 * Innovating the Crypto, DeFi and NFT world!
